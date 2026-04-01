@@ -19,7 +19,7 @@ projectsBtn.addEventListener("click", () => {
 })
 
 novaBtn.addEventListener("click", () => {
-    window.open("https://novapods5productlandingpage.vercel.app/", "_blank")
+    window.open("https://nexusedashboard.vercel.app/", "_blank")
 })
 
 expBtn.addEventListener("click", () => {
@@ -43,5 +43,5 @@ gitHubBtn.addEventListener("click", () => {
 })
 
 linkedInBtn.addEventListener("click", () => {
-    window.open("https://www.linkedin.com/in/muhammad-usman-35a7591a2/", "_blank")
+    window.open("https://www.linkedin.com/in/muhammadusman-dev/", "_blank")
 })
